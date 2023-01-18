@@ -70,7 +70,5 @@ div .ap {
   position: relative;
 }
 .ap span {
-  background-color: grey;
-  position: absolute;
-  bottom: 10;
+  background-color: white;
 }
